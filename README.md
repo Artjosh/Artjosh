@@ -10,6 +10,7 @@
 <br>- 🌍 Nearly fluent in English, proficient since 2008, facilitating collaboration with international teams and clients.
 
 <br>- 📚 Currently studying blockchain and developing basic perceptron neural networks.
+<br>- 🔍 Next topics of study: 3D rendering and smart contract development with Rust.
 <br>- 📞 How to reach me: Discord: artjosh
 
 ### Tech Stack:
@@ -24,6 +25,10 @@
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) 
  ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws) 
  ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)
+ ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
+ ![Puppeteer](https://img.shields.io/badge/-Puppeteer-05122A?style=flat&logo=puppeteer)
+ ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
+ ![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)
  
 ### GitHub Stats:
 ![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Artjosh&show_icons=true)
