@@ -1,4 +1,3 @@
-# Full-stack developer
 # 💫 About Me:
 <br>- 🧙‍♂️ Senior developer specialized in front-end development with Next.js and React, and back-end development with Node.js and Python.
 <br>- 🌱 My most recent role is as an IoT full stack software engineer.
