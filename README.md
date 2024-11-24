@@ -4,7 +4,7 @@
 <br>- 🤖 I like to automate things and do system automation stuff.
 <br>- 🎯 My passion lies in AI and blockchain, with experience from personal study, deploying smart contracts on EVM-based networks and Solana.
 <br>- 🛠️ Skilled in Puppeteer, Selenium, and Python for web automation and data scraping, full lifecycle API development using Node.js/Python.
-<br>- 🗄️ Expert in JavaScript, TypeScript, and Python, with solid experience in MySQL, PostgreSQL, and NoSQL databases.
+<br>- 🗄️ Expert in JavaScript, and Python, with solid experience in MySQL, PostgreSQL, and NoSQL databases.
 <br>- ☁️ Intermediate experience with cloud computing, particularly Jupyter Notebooks, and familiarity with IaaS solutions like AWS.
 <br>- 🌍 Nearly fluent in English, proficient since 2008, facilitating collaboration with international teams and clients.
 
