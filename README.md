@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🧙‍♂️ Senior developer specialized in front-end development with Next.js and React, and back-end development with Node.js and Python.
+<br>- 🧙‍♂️ Developer specialized in front-end development with Next.js and React, and back-end development with Node.js and Python.
 <br>- 🌱 My most recent role is as an IoT full stack software engineer.
 <br>- 🤖 I like to automate things and do system automation stuff.
 <br>- 🎯 My passion lies in AI and blockchain, with experience from personal study, deploying smart contracts on EVM-based networks and Solana.
